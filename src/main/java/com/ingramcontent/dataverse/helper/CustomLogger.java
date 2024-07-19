@@ -13,7 +13,7 @@ public class CustomLogger implements java.io.Serializable {
     public CustomLogger() {
     }
 
-    public LoggerFactory log() {
+    public static LoggerFactory log() {
       return LoggerFactory.getLogger("com.jbpm.log");
     }
 
