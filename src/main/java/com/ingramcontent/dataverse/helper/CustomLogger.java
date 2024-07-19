@@ -11,7 +11,7 @@ public class CustomLogger implements java.io.Serializable {
     public CustomLogger() {
     }
 
-
+    
 
 
 }
